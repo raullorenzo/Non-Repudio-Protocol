@@ -1,0 +1,20 @@
+{
+  "name": "Raul",
+  "authors": [
+    "raullorenzo <raul.lorenzo.67@gmail.com>"
+  ],
+  "description": "Cliente A",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "crypto-js": "^3.1.6",
+    "big-integer": "*",
+    "angular": "^1.5.8",
+    "cryptocoin": "^0.3.0",
+    "angular-ui-router": "^0.2.18",
+    "angular-jsbn-big-integer": "^0.0.2",
+    "decimal.js": "^5.0.8",
+    "bootstrap": "^3.3.7"
+  }
+}
